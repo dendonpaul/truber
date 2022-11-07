@@ -20,5 +20,13 @@
   "bugs": {
     "url": "https://github.com/dendonpaul/truber/issues"
   },
-  "homepage": "https://github.com/dendonpaul/truber#readme"
+  "homepage": "https://github.com/dendonpaul/truber#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.7.1",
+    "nodemon": "^2.0.20"
+  }
 }
